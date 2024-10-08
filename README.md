@@ -1,4 +1,7 @@
 # Rape Cases in India - From 1970-2020
+
+![Dashboard Screenshot](./Images/world_cases.png)
+
 ### Overview
 This project provides an analytical view of rape cases in India using Python and Streamlit to create an interactive dashboard. The aim is to visualize trends, patterns, and insights from the dataset, making it easier to understand the gravity of the situation and areas of concern.
 
